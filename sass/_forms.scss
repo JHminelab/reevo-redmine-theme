@@ -146,7 +146,8 @@ input[type="text"], input[type="password"], input[type="email"], input[type="num
   @include border-radius(3px);
   @include transition(all 0.15s ease-in 0);
   vertical-align: middle;
-
+  color: black;
+	
   #content & {
     background-color: #fafafa;
   }
